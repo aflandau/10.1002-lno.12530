@@ -1,4 +1,4 @@
-# L-O_Detritivore-physiology-and-growth-benefit-from-algal-presence-during-microbial-leaf-colonization
+# Repository for the publication "Detritivore physiology and growth benefit from algal presence during microbial leaf colonization"
 This repository contains the data for the related manuscript published in Limnology and Oceanography
 
 # Description and details of material
